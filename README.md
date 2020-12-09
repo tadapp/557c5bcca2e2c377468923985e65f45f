@@ -1,0 +1,2 @@
+# 557c5bcca2e2c377468923985e65f45f
+App id 2A9D2-3C3FE-ADE88-E1CB4-F1D8A, version name - beta
